@@ -1,0 +1,2 @@
+backup/newest_6_class.weights filter=lfs diff=lfs merge=lfs -text
+backup/yolov3-my_10000.weights filter=lfs diff=lfs merge=lfs -text
