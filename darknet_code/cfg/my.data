@@ -1,0 +1,6 @@
+classes= 7
+train  = train.txt
+valid  = test1_.txt
+names = data/my.names
+backup = backup
+results = results
