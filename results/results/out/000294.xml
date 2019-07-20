@@ -1,0 +1,73 @@
+<filename>000294.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>901</xmin>
+		<ymin>147</ymin>
+		<xmax>1110</xmax>
+		<ymax>238</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>992</xmin>
+		<ymin>218</ymin>
+		<xmax>1193</xmax>
+		<ymax>327</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>701</xmin>
+		<ymin>162</ymin>
+		<xmax>740</xmax>
+		<ymax>188</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>bus</name>
+	<bndbox>
+		<xmin>901</xmin>
+		<ymin>147</ymin>
+		<xmax>1110</xmax>
+		<ymax>238</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>909</xmin>
+		<ymin>192</ymin>
+		<xmax>932</xmax>
+		<ymax>216</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>989</xmin>
+		<ymin>229</ymin>
+		<xmax>1027</xmax>
+		<ymax>261</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>989</xmin>
+		<ymin>229</ymin>
+		<xmax>1027</xmax>
+		<ymax>261</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>1104</xmin>
+		<ymin>280</ymin>
+		<xmax>1140</xmax>
+		<ymax>320</ymax>
+	</bndbox>
+</object>

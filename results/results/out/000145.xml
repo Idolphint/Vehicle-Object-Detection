@@ -1,0 +1,28 @@
+<filename>000145.jpg</filename>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>726</xmin>
+		<ymin>175</ymin>
+		<xmax>733</xmax>
+		<ymax>186</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rider</name>
+	<bndbox>
+		<xmin>726</xmin>
+		<ymin>175</ymin>
+		<xmax>733</xmax>
+		<ymax>186</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>726</xmin>
+		<ymin>175</ymin>
+		<xmax>733</xmax>
+		<ymax>186</ymax>
+	</bndbox>
+</object>

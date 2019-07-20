@@ -1,0 +1,19 @@
+<filename>002758.jpg</filename>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>89</xmin>
+		<ymin>281</ymin>
+		<xmax>171</xmax>
+		<ymax>354</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>96</xmin>
+		<ymin>275</ymin>
+		<xmax>164</xmax>
+		<ymax>359</ymax>
+	</bndbox>
+</object>

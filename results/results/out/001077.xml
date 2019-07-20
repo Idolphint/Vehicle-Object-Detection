@@ -1,0 +1,64 @@
+<filename>001077.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>127</xmin>
+		<ymin>157</ymin>
+		<xmax>407</xmax>
+		<ymax>354</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>433</xmin>
+		<ymin>139</ymin>
+		<xmax>574</xmax>
+		<ymax>219</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>582</xmin>
+		<ymin>153</ymin>
+		<xmax>660</xmax>
+		<ymax>198</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>357</xmin>
+		<ymin>218</ymin>
+		<xmax>389</xmax>
+		<ymax>254</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>443</xmin>
+		<ymin>195</ymin>
+		<xmax>460</xmax>
+		<ymax>221</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>207</xmin>
+		<ymin>267</ymin>
+		<xmax>265</xmax>
+		<ymax>332</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>527</xmin>
+		<ymin>180</ymin>
+		<xmax>545</xmax>
+		<ymax>213</ymax>
+	</bndbox>
+</object>

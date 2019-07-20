@@ -1,0 +1,55 @@
+<filename>002039.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>111</xmin>
+		<ymin>119</ymin>
+		<xmax>414</xmax>
+		<ymax>315</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>30</xmin>
+		<ymin>258</ymin>
+		<xmax>106</xmax>
+		<ymax>337</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>1094</xmin>
+		<ymin>269</ymin>
+		<xmax>1178</xmax>
+		<ymax>348</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>person</name>
+	<bndbox>
+		<xmin>216</xmin>
+		<ymin>250</ymin>
+		<xmax>287</xmax>
+		<ymax>324</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>218</xmin>
+		<ymin>249</ymin>
+		<xmax>285</xmax>
+		<ymax>316</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>121</xmin>
+		<ymin>287</ymin>
+		<xmax>152</xmax>
+		<ymax>328</ymax>
+	</bndbox>
+</object>

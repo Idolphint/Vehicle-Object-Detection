@@ -1,0 +1,55 @@
+<filename>001869.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>945</xmin>
+		<ymin>166</ymin>
+		<xmax>1114</xmax>
+		<ymax>319</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>58</xmin>
+		<ymin>172</ymin>
+		<xmax>231</xmax>
+		<ymax>306</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>115</xmin>
+		<ymin>258</ymin>
+		<xmax>153</xmax>
+		<ymax>303</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>1081</xmin>
+		<ymin>291</ymin>
+		<xmax>1116</xmax>
+		<ymax>325</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>1026</xmin>
+		<ymin>268</ymin>
+		<xmax>1071</xmax>
+		<ymax>310</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>87</xmin>
+		<ymin>284</ymin>
+		<xmax>116</xmax>
+		<ymax>314</ymax>
+	</bndbox>
+</object>

@@ -1,0 +1,28 @@
+<filename>001476.jpg</filename>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>965</xmin>
+		<ymin>190</ymin>
+		<xmax>988</xmax>
+		<ymax>216</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>407</xmin>
+		<ymin>127</ymin>
+		<xmax>468</xmax>
+		<ymax>193</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>703</xmin>
+		<ymin>104</ymin>
+		<xmax>733</xmax>
+		<ymax>134</ymax>
+	</bndbox>
+</object>

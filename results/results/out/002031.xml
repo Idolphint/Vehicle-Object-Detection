@@ -1,0 +1,64 @@
+<filename>002031.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>497</xmin>
+		<ymin>19</ymin>
+		<xmax>986</xmax>
+		<ymax>313</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>1114</xmin>
+		<ymin>278</ymin>
+		<xmax>1180</xmax>
+		<ymax>369</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>40</xmin>
+		<ymin>239</ymin>
+		<xmax>146</xmax>
+		<ymax>320</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>truck</name>
+	<bndbox>
+		<xmin>623</xmin>
+		<ymin>194</ymin>
+		<xmax>718</xmax>
+		<ymax>284</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>959</xmin>
+		<ymin>249</ymin>
+		<xmax>1015</xmax>
+		<ymax>312</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>628</xmin>
+		<ymin>178</ymin>
+		<xmax>748</xmax>
+		<ymax>287</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>620</xmin>
+		<ymin>206</ymin>
+		<xmax>707</xmax>
+		<ymax>275</ymax>
+	</bndbox>
+</object>

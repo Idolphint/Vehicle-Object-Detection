@@ -1,0 +1,28 @@
+<filename>002591.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>99</xmin>
+		<ymin>257</ymin>
+		<xmax>173</xmax>
+		<ymax>336</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>1213</xmin>
+		<ymin>312</ymin>
+		<xmax>1266</xmax>
+		<ymax>394</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>1223</xmin>
+		<ymin>346</ymin>
+		<xmax>1254</xmax>
+		<ymax>390</ymax>
+	</bndbox>
+</object>

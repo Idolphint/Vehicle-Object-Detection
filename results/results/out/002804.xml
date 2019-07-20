@@ -1,0 +1,127 @@
+<filename>002804.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>9</xmin>
+		<ymin>341</ymin>
+		<xmax>113</xmax>
+		<ymax>485</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>121</xmin>
+		<ymin>219</ymin>
+		<xmax>220</xmax>
+		<ymax>312</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>26</xmin>
+		<ymin>383</ymin>
+		<xmax>125</xmax>
+		<ymax>462</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>bus</name>
+	<bndbox>
+		<xmin>332</xmin>
+		<ymin>2</ymin>
+		<xmax>989</xmax>
+		<ymax>201</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>312</xmin>
+		<ymin>153</ymin>
+		<xmax>339</xmax>
+		<ymax>183</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>417</xmin>
+		<ymin>104</ymin>
+		<xmax>475</xmax>
+		<ymax>171</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>227</xmin>
+		<ymin>198</ymin>
+		<xmax>250</xmax>
+		<ymax>221</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>137</xmin>
+		<ymin>208</ymin>
+		<xmax>236</xmax>
+		<ymax>330</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rider</name>
+	<bndbox>
+		<xmin>137</xmin>
+		<ymin>208</ymin>
+		<xmax>236</xmax>
+		<ymax>330</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>416</xmin>
+		<ymin>113</ymin>
+		<xmax>474</xmax>
+		<ymax>171</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>227</xmin>
+		<ymin>198</ymin>
+		<xmax>250</xmax>
+		<ymax>221</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>746</xmin>
+		<ymin>87</ymin>
+		<xmax>811</xmax>
+		<ymax>160</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>157</xmin>
+		<ymin>278</ymin>
+		<xmax>176</xmax>
+		<ymax>309</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>1117</xmin>
+		<ymin>233</ymin>
+		<xmax>1134</xmax>
+		<ymax>253</ymax>
+	</bndbox>
+</object>

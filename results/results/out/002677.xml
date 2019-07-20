@@ -1,0 +1,46 @@
+<filename>002677.jpg</filename>
+<object>
+	<name>truck</name>
+	<bndbox>
+		<xmin>987</xmin>
+		<ymin>234</ymin>
+		<xmax>1068</xmax>
+		<ymax>315</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>bus</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>1</ymin>
+		<xmax>863</xmax>
+		<ymax>380</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>271</xmin>
+		<ymin>235</ymin>
+		<xmax>343</xmax>
+		<ymax>312</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>987</xmin>
+		<ymin>234</ymin>
+		<xmax>1068</xmax>
+		<ymax>315</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>240</xmin>
+		<ymin>219</ymin>
+		<xmax>388</xmax>
+		<ymax>326</ymax>
+	</bndbox>
+</object>

@@ -1,0 +1,127 @@
+<filename>000835.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>4</xmin>
+		<ymin>233</ymin>
+		<xmax>295</xmax>
+		<ymax>511</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>937</xmin>
+		<ymin>181</ymin>
+		<xmax>1142</xmax>
+		<ymax>316</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>720</xmin>
+		<ymin>132</ymin>
+		<xmax>882</xmax>
+		<ymax>231</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>1107</xmin>
+		<ymin>214</ymin>
+		<xmax>1274</xmax>
+		<ymax>373</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>867</xmin>
+		<ymin>169</ymin>
+		<xmax>973</xmax>
+		<ymax>229</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>944</xmin>
+		<ymin>216</ymin>
+		<xmax>970</xmax>
+		<ymax>244</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>184</xmin>
+		<ymin>303</ymin>
+		<xmax>258</xmax>
+		<ymax>382</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>721</xmin>
+		<ymin>174</ymin>
+		<xmax>738</xmax>
+		<ymax>205</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>911</xmin>
+		<ymin>199</ymin>
+		<xmax>928</xmax>
+		<ymax>223</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rider</name>
+	<bndbox>
+		<xmin>185</xmin>
+		<ymin>295</ymin>
+		<xmax>263</xmax>
+		<ymax>375</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>911</xmin>
+		<ymin>199</ymin>
+		<xmax>928</xmax>
+		<ymax>223</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>762</xmin>
+		<ymin>178</ymin>
+		<xmax>782</xmax>
+		<ymax>216</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>1055</xmin>
+		<ymin>257</ymin>
+		<xmax>1090</xmax>
+		<ymax>296</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>1202</xmin>
+		<ymin>331</ymin>
+		<xmax>1234</xmax>
+		<ymax>373</ymax>
+	</bndbox>
+</object>

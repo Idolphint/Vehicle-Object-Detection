@@ -1,0 +1,10 @@
+<filename>002425.jpg</filename>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>1149</xmin>
+		<ymin>289</ymin>
+		<xmax>1172</xmax>
+		<ymax>315</ymax>
+	</bndbox>
+</object>

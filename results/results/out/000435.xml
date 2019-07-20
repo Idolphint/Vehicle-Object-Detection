@@ -1,0 +1,55 @@
+<filename>000435.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>993</xmin>
+		<ymin>193</ymin>
+		<xmax>1280</xmax>
+		<ymax>483</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>truck</name>
+	<bndbox>
+		<xmin>950</xmin>
+		<ymin>171</ymin>
+		<xmax>1280</xmax>
+		<ymax>445</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>1053</xmin>
+		<ymin>301</ymin>
+		<xmax>1123</xmax>
+		<ymax>384</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rider</name>
+	<bndbox>
+		<xmin>1042</xmin>
+		<ymin>280</ymin>
+		<xmax>1123</xmax>
+		<ymax>404</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rider</name>
+	<bndbox>
+		<xmin>950</xmin>
+		<ymin>171</ymin>
+		<xmax>1280</xmax>
+		<ymax>445</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>1053</xmin>
+		<ymin>301</ymin>
+		<xmax>1123</xmax>
+		<ymax>384</ymax>
+	</bndbox>
+</object>

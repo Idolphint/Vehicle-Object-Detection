@@ -1,0 +1,55 @@
+<filename>002715.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>1196</xmin>
+		<ymin>305</ymin>
+		<xmax>1253</xmax>
+		<ymax>395</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>76</xmin>
+		<ymin>286</ymin>
+		<xmax>152</xmax>
+		<ymax>381</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>10</xmin>
+		<ymin>370</ymin>
+		<xmax>80</xmax>
+		<ymax>474</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rider</name>
+	<bndbox>
+		<xmin>1196</xmin>
+		<ymin>305</ymin>
+		<xmax>1253</xmax>
+		<ymax>395</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rider</name>
+	<bndbox>
+		<xmin>76</xmin>
+		<ymin>286</ymin>
+		<xmax>152</xmax>
+		<ymax>381</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rider</name>
+	<bndbox>
+		<xmin>10</xmin>
+		<ymin>370</ymin>
+		<xmax>80</xmax>
+		<ymax>474</ymax>
+	</bndbox>
+</object>

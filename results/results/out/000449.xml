@@ -1,0 +1,127 @@
+<filename>000449.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>681</xmin>
+		<ymin>9</ymin>
+		<xmax>919</xmax>
+		<ymax>234</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>18</xmin>
+		<ymin>96</ymin>
+		<xmax>420</xmax>
+		<ymax>485</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>person</name>
+	<bndbox>
+		<xmin>380</xmin>
+		<ymin>203</ymin>
+		<xmax>427</xmax>
+		<ymax>267</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>person</name>
+	<bndbox>
+		<xmin>659</xmin>
+		<ymin>16</ymin>
+		<xmax>985</xmax>
+		<ymax>256</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>truck</name>
+	<bndbox>
+		<xmin>657</xmin>
+		<ymin>5</ymin>
+		<xmax>975</xmax>
+		<ymax>213</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>bus</name>
+	<bndbox>
+		<xmin>681</xmin>
+		<ymin>9</ymin>
+		<xmax>919</xmax>
+		<ymax>234</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>bus</name>
+	<bndbox>
+		<xmin>5</xmin>
+		<ymin>132</ymin>
+		<xmax>387</xmax>
+		<ymax>458</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>382</xmin>
+		<ymin>210</ymin>
+		<xmax>427</xmax>
+		<ymax>273</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>718</xmin>
+		<ymin>163</ymin>
+		<xmax>745</xmax>
+		<ymax>200</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>681</xmin>
+		<ymin>9</ymin>
+		<xmax>919</xmax>
+		<ymax>234</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rider</name>
+	<bndbox>
+		<xmin>681</xmin>
+		<ymin>9</ymin>
+		<xmax>919</xmax>
+		<ymax>234</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>718</xmin>
+		<ymin>163</ymin>
+		<xmax>745</xmax>
+		<ymax>200</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>137</xmin>
+		<ymin>325</ymin>
+		<xmax>228</xmax>
+		<ymax>423</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>659</xmin>
+		<ymin>16</ymin>
+		<xmax>985</xmax>
+		<ymax>256</ymax>
+	</bndbox>
+</object>

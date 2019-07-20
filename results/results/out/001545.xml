@@ -1,0 +1,46 @@
+<filename>001545.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>1040</xmin>
+		<ymin>239</ymin>
+		<xmax>1203</xmax>
+		<ymax>392</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>1127</xmin>
+		<ymin>361</ymin>
+		<xmax>1162</xmax>
+		<ymax>401</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>1053</xmin>
+		<ymin>241</ymin>
+		<xmax>1178</xmax>
+		<ymax>393</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rider</name>
+	<bndbox>
+		<xmin>1040</xmin>
+		<ymin>239</ymin>
+		<xmax>1203</xmax>
+		<ymax>392</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>1127</xmin>
+		<ymin>361</ymin>
+		<xmax>1162</xmax>
+		<ymax>401</ymax>
+	</bndbox>
+</object>

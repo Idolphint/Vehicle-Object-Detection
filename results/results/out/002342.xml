@@ -1,0 +1,37 @@
+<filename>002342.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>460</xmin>
+		<ymin>38</ymin>
+		<xmax>734</xmax>
+		<ymax>160</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>bus</name>
+	<bndbox>
+		<xmin>460</xmin>
+		<ymin>15</ymin>
+		<xmax>734</xmax>
+		<ymax>173</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>459</xmin>
+		<ymin>119</ymin>
+		<xmax>510</xmax>
+		<ymax>170</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>641</xmin>
+		<ymin>98</ymin>
+		<xmax>697</xmax>
+		<ymax>159</ymax>
+	</bndbox>
+</object>

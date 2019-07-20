@@ -1,0 +1,82 @@
+<filename>001399.jpg</filename>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>336</xmin>
+		<ymin>121</ymin>
+		<xmax>355</xmax>
+		<ymax>141</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>786</xmin>
+		<ymin>116</ymin>
+		<xmax>801</xmax>
+		<ymax>131</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>415</xmin>
+		<ymin>110</ymin>
+		<xmax>435</xmax>
+		<ymax>128</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>876</xmin>
+		<ymin>143</ymin>
+		<xmax>895</xmax>
+		<ymax>165</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>336</xmin>
+		<ymin>121</ymin>
+		<xmax>355</xmax>
+		<ymax>141</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>786</xmin>
+		<ymin>116</ymin>
+		<xmax>801</xmax>
+		<ymax>131</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>876</xmin>
+		<ymin>143</ymin>
+		<xmax>895</xmax>
+		<ymax>165</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>492</xmin>
+		<ymin>100</ymin>
+		<xmax>510</xmax>
+		<ymax>119</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>924</xmin>
+		<ymin>164</ymin>
+		<xmax>939</xmax>
+		<ymax>185</ymax>
+	</bndbox>
+</object>

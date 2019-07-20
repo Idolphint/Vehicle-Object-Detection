@@ -1,3 +1,21 @@
+目标检测算法技术总结报告以及源代码 //我
+
+仿真环境运行&评测分析&批量保存运行结果（以图片为准） // 评测以及反馈组
+
+标签预测的生成与完备以及迭代结果提交 //提交组
+
+
+
+
+
+
+
+
+
+
+
+
+
 训练：./darknet detector train cfg/my.data cfg/yolov3-my.cfg backup/yolov3-my.backup 
 
 

@@ -1,0 +1,37 @@
+<filename>001500.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>81</xmin>
+		<ymin>177</ymin>
+		<xmax>220</xmax>
+		<ymax>301</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>119</xmin>
+		<ymin>256</ymin>
+		<xmax>149</xmax>
+		<ymax>293</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>93</xmin>
+		<ymin>279</ymin>
+		<xmax>118</xmax>
+		<ymax>305</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>93</xmin>
+		<ymin>279</ymin>
+		<xmax>118</xmax>
+		<ymax>305</ymax>
+	</bndbox>
+</object>

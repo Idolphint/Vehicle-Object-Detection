@@ -1,0 +1,127 @@
+<filename>001993.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>1172</xmin>
+		<ymin>384</ymin>
+		<xmax>1257</xmax>
+		<ymax>503</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>91</xmin>
+		<ymin>45</ymin>
+		<xmax>638</xmax>
+		<ymax>371</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>843</xmin>
+		<ymin>136</ymin>
+		<xmax>1149</xmax>
+		<ymax>369</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>1118</xmin>
+		<ymin>273</ymin>
+		<xmax>1175</xmax>
+		<ymax>371</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>truck</name>
+	<bndbox>
+		<xmin>126</xmin>
+		<ymin>279</ymin>
+		<xmax>180</xmax>
+		<ymax>340</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>307</xmin>
+		<ymin>254</ymin>
+		<xmax>423</xmax>
+		<ymax>345</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>228</xmin>
+		<ymin>139</ymin>
+		<xmax>255</xmax>
+		<ymax>170</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rider</name>
+	<bndbox>
+		<xmin>1172</xmin>
+		<ymin>384</ymin>
+		<xmax>1257</xmax>
+		<ymax>503</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>313</xmin>
+		<ymin>262</ymin>
+		<xmax>418</xmax>
+		<ymax>362</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>973</xmin>
+		<ymin>291</ymin>
+		<xmax>1031</xmax>
+		<ymax>350</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>127</xmin>
+		<ymin>285</ymin>
+		<xmax>180</xmax>
+		<ymax>343</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>1088</xmin>
+		<ymin>327</ymin>
+		<xmax>1120</xmax>
+		<ymax>369</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>1105</xmin>
+		<ymin>327</ymin>
+		<xmax>1136</xmax>
+		<ymax>359</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>1131</xmin>
+		<ymin>337</ymin>
+		<xmax>1150</xmax>
+		<ymax>360</ymax>
+	</bndbox>
+</object>

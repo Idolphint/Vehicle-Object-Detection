@@ -1,0 +1,10 @@
+<filename>002720.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>1137</xmin>
+		<ymin>287</ymin>
+		<xmax>1238</xmax>
+		<ymax>365</ymax>
+	</bndbox>
+</object>

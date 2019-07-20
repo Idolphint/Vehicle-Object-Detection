@@ -1,0 +1,46 @@
+<filename>001299.jpg</filename>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>213</xmin>
+		<ymin>182</ymin>
+		<xmax>227</xmax>
+		<ymax>203</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>181</xmin>
+		<ymin>202</ymin>
+		<xmax>193</xmax>
+		<ymax>219</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>213</xmin>
+		<ymin>182</ymin>
+		<xmax>227</xmax>
+		<ymax>203</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>181</xmin>
+		<ymin>202</ymin>
+		<xmax>193</xmax>
+		<ymax>219</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>916</xmin>
+		<ymin>162</ymin>
+		<xmax>929</xmax>
+		<ymax>178</ymax>
+	</bndbox>
+</object>

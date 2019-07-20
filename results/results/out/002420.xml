@@ -1,0 +1,28 @@
+<filename>002420.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>16</xmin>
+		<ymin>389</ymin>
+		<xmax>64</xmax>
+		<ymax>466</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>30</xmin>
+		<ymin>402</ymin>
+		<xmax>60</xmax>
+		<ymax>449</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>bus</name>
+	<bndbox>
+		<xmin>16</xmin>
+		<ymin>389</ymin>
+		<xmax>64</xmax>
+		<ymax>466</ymax>
+	</bndbox>
+</object>

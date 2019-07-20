@@ -1,0 +1,55 @@
+<filename>002354.jpg</filename>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>463</xmin>
+		<ymin>46</ymin>
+		<xmax>1082</xmax>
+		<ymax>320</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>car</name>
+	<bndbox>
+		<xmin>1053</xmin>
+		<ymin>190</ymin>
+		<xmax>1127</xmax>
+		<ymax>249</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>1070</xmin>
+		<ymin>219</ymin>
+		<xmax>1091</xmax>
+		<ymax>243</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>front</name>
+	<bndbox>
+		<xmin>540</xmin>
+		<ymin>180</ymin>
+		<xmax>661</xmax>
+		<ymax>328</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>540</xmin>
+		<ymin>180</ymin>
+		<xmax>661</xmax>
+		<ymax>328</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>rear</name>
+	<bndbox>
+		<xmin>972</xmin>
+		<ymin>243</ymin>
+		<xmax>1039</xmax>
+		<ymax>312</ymax>
+	</bndbox>
+</object>

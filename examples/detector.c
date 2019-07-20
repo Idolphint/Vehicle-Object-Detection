@@ -682,8 +682,8 @@ void test_detector(char *datacfg, char *cfgfile, char *weightfile, char *filenam
         //printf("%d\n", nboxes);
         //if (nms) do_nms_obj(boxes, probs, l.w*l.h*l.n, l.classes, nms);
         if (nms) do_nms_sort(dets, nboxes, l.classes, nms);
-        //draw_detections(im, dets, nboxes, thresh, names, alphabet, l.classes); TODO:it's useful when show img;
-        //free_detections(dets, nboxes); useful
+        draw_detections(im, dets, nboxes, thresh, names, alphabet, l.classes); //TODO:it's useful when show img;
+        free_detections(dets, nboxes); //useful
         if(outfile){
             save_image(im, outfile);
         }
@@ -692,8 +692,8 @@ void test_detector(char *datacfg, char *cfgfile, char *weightfile, char *filenam
             save_image(im, "predictions");
         //    printf("save %s successfully!\n",GetFilename(path));
 #ifdef OPENCV
-            //make_window("predictions", 512, 512, 0); useful
-            //show_image(im, "predictions", 0); useful
+            make_window("predictions", 512, 512, 0); //useful
+            show_image(im, "predictions", 0);// useful
 #endif
 	    /**************************
              char b[2048];
