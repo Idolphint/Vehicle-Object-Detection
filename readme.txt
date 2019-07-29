@@ -5,17 +5,6 @@
 标签预测的生成与完备以及迭代结果提交 //提交组
 
 
-
-
-
-
-
-
-
-
-
-
-
 训练：./darknet detector train cfg/my.data cfg/yolov3-my.cfg backup/yolov3-my.backup 
 
 
